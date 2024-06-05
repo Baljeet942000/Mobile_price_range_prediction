@@ -6,9 +6,9 @@
 
 3. In this problem, we do not have to predict the actual price but a price range indicating how high the price is, 0(low cost), 1 (medium cost), 2(high cost), 3(very high cost).
 
-4. I have used python libraries such as pandas,seaborn,numpy and sklearn to develop the prediction algorithm.
+4. I have used python libraries such as pandas,numpy,seaborn,matplotlib to perform a detailed exploratory data analysis and data visualisation.
 
-5. Have also performed a detailed Exploratory data analysis and visualisation.
+5.
 
 
 
