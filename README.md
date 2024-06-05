@@ -17,7 +17,7 @@
      
 6.Performed hyperparameter tuning for Logistic regression and XGBClassifier.
 
-7.Found Logistic regression as the best model with very high prediction accuracy on both training and testing dataset.
+7.Found Logistic regression as the best model with very high prediction accuracy on both training and testing  dataset.
 
 
 
