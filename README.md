@@ -14,7 +14,10 @@
    * Decision_Tree_Classifier.
    * Random_Forest_Classifier.
    * XGBClassifier.
+     
+6.Performed hyperparameter tuning for Logistic regression and XGBClassifier.
 
+7.Found Logistic regression as the best model with very high prediction accuracy on both training and testing dataset.
 
 
 
